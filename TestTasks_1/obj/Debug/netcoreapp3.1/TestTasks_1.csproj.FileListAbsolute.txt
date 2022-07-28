@@ -1,0 +1,14 @@
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\bin\Debug\netcoreapp3.1\TestTasks_1.exe
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\bin\Debug\netcoreapp3.1\TestTasks_1.deps.json
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\bin\Debug\netcoreapp3.1\TestTasks_1.runtimeconfig.json
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\bin\Debug\netcoreapp3.1\TestTasks_1.runtimeconfig.dev.json
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\bin\Debug\netcoreapp3.1\TestTasks_1.dll
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\bin\Debug\netcoreapp3.1\TestTasks_1.pdb
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.csproj.AssemblyReference.cache
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.AssemblyInfoInputs.cache
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.AssemblyInfo.cs
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.csproj.CoreCompileInputs.cache
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.dll
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.pdb
+C:\Users\mikheev_av1\source\repos\TestTasks_1\TestTasks_1\obj\Debug\netcoreapp3.1\TestTasks_1.genruntimeconfig.cache
